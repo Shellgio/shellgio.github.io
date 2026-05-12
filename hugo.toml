@@ -96,13 +96,13 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # URL of the LOGO
       logo = ""
       # title name
-      name = ""
+      name = "Shellgio's Blog"
       # you can add extra information before the name (HTML format is supported), such as icons
       pre = ""
       # you can add extra information after the name (HTML format is supported), such as icons
       post = ""
       # LoveIt NEW | 0.2.5 whether to use typeit animation for title name
-      typeit = false
+      typeit = true
 
   # Footer config
   [params.footer]
@@ -187,7 +187,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = ""
       # URL of avatar shown in home page
-      avatarURL = "/images/avatar.png"
+      avatarURL = "/images/shellgio.jpeg"
       # LoveIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
       title = "Shellgio's Blog"
       # subtitle shown in home page (HTML format is supported)
