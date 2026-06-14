@@ -6,8 +6,8 @@ theme = "LoveIt"
 # website title
 title = "shellgio.net"
 
-# language code ["en", "zh-CN", "fr", "pl", ...]
-languageCode = "en"
+# language locale ["en", "es", "fr", "pl", ...]
+locale = "en"
 # language name ["English", "简体中文", "Français", "Polski", ...]
 languageName = "English"
 # whether to include Chinese/Japanese/Korean
@@ -25,6 +25,10 @@ enableEmoji = true
 
 # ignore some build errors
 ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
 
 # Pagination config
 [pagination]
