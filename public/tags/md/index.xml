@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>MD - Tag - Shellgio&#39;s Blog</title>
+        <link>http://localhost:1313/tags/md/</link>
+        <description>MD - Tag - Shellgio&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 12 May 2026 22:13:43 &#43;0100</lastBuildDate><atom:link href="http://localhost:1313/tags/md/" rel="self" type="application/rss+xml" /><item>
+    <title>Primer post</title>
+    <link>http://localhost:1313/first_post/</link>
+    <pubDate>Tue, 12 May 2026 22:13:43 &#43;0100</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/first_post/</guid>
+    <description><![CDATA[<h1 id="scheduled-scans-are-coming-to-av-policies-in-defender-for-endpoint-on-linux">Scheduled scans are coming to AV policies in Defender for Endpoint on Linux</h1>
+<p>One of the things I&rsquo;ve always missed when deploying antivirus policies for Microsoft Defender for Endpoint on Linux devices were scheduled scans.</p>
+<p>And I said &lsquo;were&rsquo; because they are coming. Currently in preview, now you can set up scheduled scans settings used a custom JSON setting or, if you use Intune or security settings management an antivirus policy instead of using a cron job like until now.</p>]]></description>
+</item>
+</channel>
+</rss>

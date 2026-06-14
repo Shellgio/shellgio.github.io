@@ -1,0 +1,22 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Linux - Tag - shellgio.net</title>
+        <link>http://localhost:1313/tags/linux/</link>
+        <description>Linux - Tag - shellgio.net</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 14 Jun 2026 12:13:43 &#43;0100</lastBuildDate><atom:link href="http://localhost:1313/tags/linux/" rel="self" type="application/rss+xml" /><item>
+    <title>Scheduled scans are coming to AV policies in Defender for Endpoint on Linux</title>
+    <link>http://localhost:1313/scheduled_scans_mde_linux/</link>
+    <pubDate>Sun, 14 Jun 2026 12:13:43 &#43;0100</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/scheduled_scans_mde_linux/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/image.png" referrerpolicy="no-referrer">
+            </div><p>One of the things I&rsquo;ve always missed when deploying antivirus policies for <strong>Microsoft Defender for Endpoint</strong> on <strong>Linux</strong> devices were <strong>scheduled scans</strong>.</p>
+<p>And I said &lsquo;were&rsquo; because they are coming. Currently in preview, now you can set up scheduled scans settings used a custom JSON setting or, if you use Intune or security settings management an antivirus policy instead of using a cron job like until now.
+<figure><a class="lightgallery" href="/images/image.png" title="/images/image.png" data-thumbnail="/images/image.png" data-sub-html="<h2>Screenshot of the new settings on a Antivirus Intune Policy for Linux</h2>">
+        
+    </a><figcaption class="image-caption">Screenshot of the new settings on a <code>Antivirus Intune Policy</code> for Linux</figcaption>
+    </figure></p>]]></description>
+</item>
+</channel>
+</rss>
