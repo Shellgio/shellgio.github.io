@@ -10,7 +10,7 @@ Flexible scheduling options include hourly, daily, and weekly scans with configu
 
 To be able to use it **you need agent version 101.26032.0000 or later** (production ring), and **configure scheduled scans** using **managed JSON** or **Defender AV policies** using Intune or security settings management.
 
-Sources:
+# Sources
 - [Introducing scheduled antivirus scans on Microsoft Defender Linux](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/introducing-scheduled-antivirus-scans-on-microsoft-defender-linux/4524578)
 
 
