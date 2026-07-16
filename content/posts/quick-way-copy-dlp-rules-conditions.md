@@ -10,7 +10,7 @@ tags:
 - PowerShell
 - Data Loss Prevention
 description: 'Learn how to extract, clean, save, and reuse the AdvancedRule JSON from a Microsoft Purview DLP rule for backups and lab testing.'
-featuredimage: "../images/quick-way-copy-dlp-rules-conditions.png"
+featuredimage: "../assets/images/quick-way-copy-dlp-rules-conditions.png"
 ---
 
 Sometimes the easiest way to build a complex Microsoft Purview Data Loss Prevention rule is not to start from scratch. You may already have a rule whose conditions, classifiers, and nested logic are exactly what you need for a lab, a backup, or a similar deployment in another tenant.
