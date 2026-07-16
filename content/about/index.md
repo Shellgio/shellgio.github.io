@@ -10,7 +10,7 @@ Through this blog, I share my experiences, research, hands-on labs, and lessons 
 
 Whether you’re a security professional, IT administrator, or simply curious about Microsoft’s security ecosystem, I hope you find something useful here.
 
-![Copilot WorkIQ Persona](shellgio-Copilot WorkIQ-persona.png)
+![BIO](shellgio-Copilot-WorkIQ-persona.png) 
 
 # My certifications
 ## Microsoft Security certifications
