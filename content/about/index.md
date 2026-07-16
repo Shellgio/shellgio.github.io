@@ -10,6 +10,8 @@ Through this blog, I share my experiences, research, hands-on labs, and lessons 
 
 Whether you’re a security professional, IT administrator, or simply curious about Microsoft’s security ecosystem, I hope you find something useful here.
 
+![Copilot WorkIQ Persona](shellgio-Copilot WorkIQ-persona.png)
+
 # My certifications
 ## Microsoft Security certifications
 ### SC-100 Microsoft Certified: Cybersecurity Architect Expert
@@ -17,40 +19,48 @@ Whether you’re a security professional, IT administrator, or simply curious ab
 
 Validates expert-level skills in designing and implementing enterprise-wide cybersecurity strategies using Microsoft technologies across hybrid and multi-cloud environments.
 
-[Verify certification](https://learn.microsoft.com/api/credentials/share/en-us/shellgio/8740E50E06FD3D4C?sharingId=B8C6F33B11F93FCC)
+[Verify SC-100 certification](https://learn.microsoft.com/api/credentials/share/en-us/shellgio/8740E50E06FD3D4C?sharingId=B8C6F33B11F93FCC)
+
+
+## MS-102 Microsoft 365 Certified: Administrator Expert
+![MS-102](ms-102.png)
+
+Demonstrate the skills required to deploy, manage, and secure Microsoft 365 environments by implementing tenant administration, identity and access, device management, and compliance solutions.
+
+[Verify MS-102 certification](https://learn.microsoft.com/api/credentials/share/en-us/shellgio/FD64ED592D8EC10?sharingId=B8C6F33B11F93FCC)
 
 ### SC-200 Microsoft Certified: Security Operations Analyst Associate
 ![SC-200](sc-200.png)
 
 Investigate, search for, and mitigate threats using Microsoft Sentinel, Microsoft Defender for Cloud, and Microsoft 365 Defender.
 
-[Verify certification](https://learn.microsoft.com/api/credentials/share/en-us/shellgio/2E9B7005BEA31A6E?sharingId=B8C6F33B11F93FCC)
+[Verify SC-200 certification](https://learn.microsoft.com/api/credentials/share/en-us/shellgio/2E9B7005BEA31A6E?sharingId=B8C6F33B11F93FCC)
 
 ### SC-300 Microsoft Certified: Identity and Access Administrator Associate
 ![SC-300](sc-300.png)
 
 Demonstrate the features of Microsoft Entra ID to modernize identity solutions, implement hybrid solutions, and implement identity governance.
 
-[Verify certification](https://learn.microsoft.com/api/credentials/share/en-us/shellgio/414506178C8D5D30?sharingId=B8C6F33B11F93FCC)
+[Verify SC-300 certification](https://learn.microsoft.com/api/credentials/share/en-us/shellgio/414506178C8D5D30?sharingId=B8C6F33B11F93FCC)
 
 ### SC-401 Microsoft Certified: Information Security Administrator Associate
 ![SC-401](sc-401.png)
 
 As an Information Security Administrator, you plan and implement information security of sensitive data by using Microsoft Purview and related services.
 
-[Verify certification](https://learn.microsoft.com/api/credentials/share/en-us/shellgio/7748AE32FB7CA03B?sharingId=B8C6F33B11F93FCC)
+[Verify SC-401 certification](https://learn.microsoft.com/api/credentials/share/en-us/shellgio/7748AE32FB7CA03B?sharingId=B8C6F33B11F93FCC)
 
 ## Other Certifications and badges
 ### eJPT - Junior Penetration Tester
 
 ![eJPT](eJPT.png)
 
-[Verify certification](https://certs.ine.com/dd857260-da78-47c3-bd9f-d42b6270f895#acc.YBwe5AyU)
+[Verify eJPT certification](https://certs.ine.com/dd857260-da78-47c3-bd9f-d42b6270f895#acc.YBwe5AyU)
 
 ### MCRTP - Microsoft Cloud Red Team Professional
 ![MCRTP](mcrtp.png)
 
-[Verify certification](https://www.credly.com/badges/df428105-2df1-4c0e-8c36-cd7a54f29ef9/public_url)
+[Verify MCRTP certification](https://www.credly.com/badges/df428105-2df1-4c0e-8c36-cd7a54f29ef9/public_url)
 
 ### Data Security with Purview -​Proficient
 
@@ -60,8 +70,8 @@ As an Information Security Administrator, you plan and implement information sec
 
 
 ### AZ-900 Microsoft Certified: Azure Fundamentals
-[Verify certification](https://learn.microsoft.com/api/credentials/share/en-us/shellgio/821BEB902A913EFA?sharingId=B8C6F33B11F93FCC)
+[Verify AZ-900 certification](https://learn.microsoft.com/api/credentials/share/en-us/shellgio/821BEB902A913EFA?sharingId=B8C6F33B11F93FCC)
 ### AZ-104 Microsoft Certified: Azure Administrator Associate
-[Verify certification](https://learn.microsoft.com/api/credentials/share/en-us/shellgio/9FADF612B3177267?sharingId=B8C6F33B11F93FCC)
+[Verify AZ-104 certification](https://learn.microsoft.com/api/credentials/share/en-us/shellgio/9FADF612B3177267?sharingId=B8C6F33B11F93FCC)
 ### MS-700 Microsoft 365 Certified: Teams Administrator Associate
-[Verify certification](https://learn.microsoft.com/api/credentials/share/en-us/shellgio/4B7A5EC890A6E2E3?sharingId=B8C6F33B11F93FCC)
+[Verify MS-700 certification](https://learn.microsoft.com/api/credentials/share/en-us/shellgio/4B7A5EC890A6E2E3?sharingId=B8C6F33B11F93FCC)
