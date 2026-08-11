@@ -109,14 +109,14 @@ If you get a 403 error this most likely caused by insufficient permissions. Go t
 
 ![403 error](</images/CleanShot 2026-08-11 at 08.39.57.png>)
 
-![Grant Policy.ReadWrite.AuthenticationMethod permissions](<CleanShot 2026-08-11 at 08.40.13.png>)
+![Grant Policy.ReadWrite.AuthenticationMethod permissions](</images/CleanShot 2026-08-11 at 08.40.13.png>)
 
 Run the query and you should receive a 204 response 
 ![204 response](</images/CleanShot 2026-08-11 at 08.40.51.png>)
 
 With the new setting added as true if you verify again with the GET method you should see the new setting:
 
-![200 response](<CleanShot 2026-08-11 at 08.41.30.png>)
+![200 response](</images/CleanShot 2026-08-11 at 08.41.30.png>)
 
 ### Using PowerShell
 First, connect to Microsoft Graph with permissiones to read and write authentication methods:
