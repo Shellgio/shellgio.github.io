@@ -17,7 +17,7 @@ description: 'How to temporarily opt out of Microsoft Entra ID automatic passkey
 featuredimage: "/images/How to Temporarily Opt Out of Passkeys by Default in Microsoft Entra ID.png"
 ---
 
-Recently I posted how Microsoft announced that starting September 1, 2026, users who are enabled for SMS or voice authentication will be automatically enabled for passkeys. Microsoft will also move the Registration Campaign to a Microsoft-managed configuration for these users, which means they can start receiving prompts to register a passkey when they sign in and complete MFA.
+Recently I [posted](https://shellgio.net/entra-id-sms-voice-retirement-passkey-default/) about how Microsoft announced that starting September 1, 2026, users who are enabled for SMS or voice authentication will be automatically enabled for passkeys. Microsoft will also move the Registration Campaign to a Microsoft-managed configuration for these users, which means they can start receiving prompts to register a passkey when they sign in and complete MFA.
 
 For organizations that are already ready for passkeys, this is probably not a problem. But there are environments where the security team may need more time to migrate users, review authentication methods, or deal with specific operational requirements.
 
@@ -152,6 +152,7 @@ Invoke-MgGraphRequest `
 
 It won't return anything as a result but if you verify your opt-out status again it should return that `passkeyDynamicMigration`  has the value `True`
 ![Opt-out status enabled](</images/CleanShot 2026-08-11 at 09.36.46.png>)
+
 
 ### PowerShell Script
 
