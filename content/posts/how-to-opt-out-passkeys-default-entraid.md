@@ -154,7 +154,7 @@ It won't return anything as a result but if you verify your opt-out status again
 ![Opt-out status enabled](</images/CleanShot 2026-08-11 at 09.36.46.png>)
 
 
-### PowerShell Script
+### My PowerShell Script
 
 I've created a PowerShell script to perfom the opt-out or just verify if the opt-out is enabled. The script verify if the opt-out is enabled before doing so.
 
